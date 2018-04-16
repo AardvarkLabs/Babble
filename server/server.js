@@ -3,6 +3,12 @@ const http = require('http');
 const express = require('express');
 const socketIO = require('socket.io');
 
+/*
+Softare developed by Software Engineer felipe alfonso gonzalez - felipe@nodeio.us
+
+*/
+
+
 const {generateMessage, generateLocationMessage} = require('./utils/message');
 const {isRealString} = require('./utils/validation');
 const {Users} = require('./utils/users');
