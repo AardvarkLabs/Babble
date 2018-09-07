@@ -5,6 +5,6 @@ babble is an artefact made out of Node.JS and fundamentally, Socket.IO.
 |
 
 #Heroku deployment:
-https://chattyjs.herokuapp.com/ (deployed at Heroku)
+https://babblejs.herokuapp.com/ (deployed at Heroku)
 
  
