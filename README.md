@@ -1,7 +1,7 @@
-# Babble
-babble is an artefact made out of Node.JS and fundamentally, Socket.IO.
+# Babble ChatApp
+babble is a Chat App made out of Node.JS and Socket.IO.
 |
-| Software developed by Software Engineer Felipe Alfonso González - f.alfonso@res-ear.ch
+| By  Felipe Alfonso González - f.alfonso@res-ear.ch
 |
 
 #Heroku deployment:
