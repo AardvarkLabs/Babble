@@ -1,4 +1,4 @@
-# Babble ChatApp
+# BabbleJS ChatApp
 babble is a Chat App made out of Node.JS and Socket.IO.
 |
 | By  Felipe Alfonso González - f.alfonso@res-ear.ch
